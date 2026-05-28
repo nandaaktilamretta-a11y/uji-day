@@ -199,7 +199,7 @@ music.currentTime = 0;
 /* VOLUME */
 
 voice.volume = 0.85;
-music.volume = 0.45;
+music.volume = 0.60;
 
 /* PLAY AUDIO */
 
